@@ -169,7 +169,7 @@
         /* Main Grid */
         .main-grid {
             display: grid;
-            grid-template-columns: 300px 1fr 350px;
+            grid-template-columns: 400px 1fr 350px;
             gap: 25px;
             animation: fadeIn 1s cubic-bezier(0.16, 1, 0.3, 1) 0.2s both;
         }
@@ -282,7 +282,6 @@
         .crypto-item:hover {
             background: rgba(0, 240, 255, 0.05);
             border-color: var(--neon-cyan);
-            transform: translateX(5px);
         }
 
         .crypto-item.active {
