@@ -1,10 +1,10 @@
-🚀 NEXUS TERMINAL – Futuristic Trading Dashboard  
+# 🚀 NEXUS TERMINAL – Futuristic Trading Dashboard  
 Advanced terminal-style trading interface with real-time simulation, interactive charts, and cyberpunk-inspired UI design.
 
-🌐 Live Demo  
+##  🌐 Live Demo  
 👉 https://vrhovaco.github.io/nexus-terminal-ui/
 
-📦 Repository  
+##  📦 Repository  
 👉 https://github.com/vrhovaco/nexus-terminal-ui
 
 ---
