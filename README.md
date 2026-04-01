@@ -1,66 +1,51 @@
-# 🚀 ORBIT FLEET – Vehicle Telematics Platform  
-Advanced frontend-only fleet management dashboard featuring real-time telemetry simulation, 3D vehicle visualization, and operational analytics.
+# 🚀 NEON PULSE ANIMATION – CSS Visual Effect  
+Minimalistic animated neon pulse with gradient rotation and glow effects built using pure CSS.
 
 ## 🌐 Live Demo  
-👉 https://vrhovaco.github.io/vehicle-fleet-telematics/
-
-## 📦 Repository  
-👉 https://github.com/vrhovaco/vehicle-fleet-telematics
+👉 https://vrhovaco.github.io/neon-pulse-animation/
 
 ## ✨ Features  
-3D vehicle viewer with smooth rotation and camera controls  
-Real-time telemetry simulation (speed, movement, system state)  
-Vehicle switching system (multi-vehicle support)  
-Route replay with projected path visualization  
-Live operational alert feed (warnings, events, status changes)  
-Performance insights and analytics dashboard  
-Interactive UI with dynamic data updates  
-Responsive, modern enterprise-grade layout  
-Fully frontend implementation (no backend required)  
+Smooth rotating gradient ring animation  
+Glow / blur neon effect using CSS filters  
+Pulse expansion animation with layered circles  
+Pure CSS keyframe animations (no JavaScript)  
+Modern dark UI aesthetic  
+Lightweight and performant  
+Centered responsive layout  
 
-## 🚗 Core Modules  
-Vehicle Viewer – interactive 3D model with orbit controls  
-Telemetry Engine – simulated real-time vehicle data  
-Route System – replay + prediction of vehicle movement  
-Alerts Feed – real-time-like system notifications  
-Analytics Dashboard – performance metrics and summaries  
+## 🎨 Visual Concept  
+Futuristic neon pulse inspired by cyberpunk / sci-fi UI elements  
+Dynamic gradient rotation combined with soft glow diffusion  
+Layered animation system for depth and motion  
 
-##🛠️ Tech Stack  
+## 🛠️ Tech Stack  
 HTML5  
-CSS3 (modern layout, transitions, responsive design)  
-Vanilla JavaScript (modular logic)  
-Three.js (3D rendering engine)  
-OrbitControls (camera interaction)  
+CSS3 (keyframes, gradients, blur, transforms)  
 
 ## 📁 Project Structure  
-📦 vehicle-fleet-telematics  
- ┣ 📜 index.html      # Application layout and 3D canvas  
- ┣ 📜 style.css       # UI styling and responsive system  
- ┗ 📜 script.js       # Telemetry logic, simulation, interactions  
+📦 neon-pulse-animation  
+ ┗ 📜 index.html   # Complete animation (HTML + CSS in one file)  
 
 ## 🎯 Purpose  
-This project demonstrates the development of a modern fleet telematics interface similar to systems used in:  
-- Logistics and transportation companies  
-- Smart mobility platforms  
-- Fleet management systems  
-- IoT vehicle tracking solutions  
+This project demonstrates advanced CSS animation techniques, including:  
+- Keyframe animations  
+- Gradient manipulation  
+- Blur and glow effects  
+- Layered pseudo-elements (::before / ::after)  
+- Transform-based positioning  
 
-The focus is on building a realistic, production-like dashboard using only frontend technologies.
+## Designed as a lightweight visual component suitable for:  
+- Landing pages  
+- Loading animations  
+- UI highlights  
+- Creative frontend portfolios  
 
-## 💡 Highlights  
-3D visualization integrated into business dashboard  
-Simulation of real-world telematics data  
-Clean and scalable UI architecture without frameworks  
-Strong emphasis on UX, clarity, and data presentation  
-Portfolio-ready system with high visual and technical impact  
-
-## 📊 Use Cases  
-Fleet monitoring dashboards  
-Vehicle tracking systems  
-Smart city transportation analytics  
-IoT simulation interfaces  
+##💡 Highlights  
+Zero JavaScript – fully CSS-driven animation  
+Clean and minimal structure  
+High visual impact with simple code  
+Demonstrates strong understanding of CSS animations  
 
 ## 📌 Notes  
-This is a frontend-only demo application.  
-All data is simulated within the application (no API/backend).  
-Designed for showcasing UI/UX and system design capabilities.  
+This is a frontend-only visual animation demo.  
+All effects are achieved using pure CSS without external libraries.  
