@@ -1,51 +1,122 @@
-# 🚀 NEON PULSE ANIMATION – CSS Visual Effect  
-Minimalistic animated neon pulse with gradient rotation and glow effects built using pure CSS.
+🚀 NEXUS TERMINAL – Futuristic Trading Dashboard  
+Advanced terminal-style trading interface with real-time simulation, interactive charts, and cyberpunk-inspired UI design.
 
-## 🌐 Live Demo  
-👉 https://vrhovaco.github.io/neon-pulse-animation/
+🌐 Live Demo  
+👉 https://vrhovaco.github.io/nexus-terminal-ui/
 
-## ✨ Features  
-Smooth rotating gradient ring animation  
-Glow / blur neon effect using CSS filters  
-Pulse expansion animation with layered circles  
-Pure CSS keyframe animations (no JavaScript)  
-Modern dark UI aesthetic  
-Lightweight and performant  
-Centered responsive layout  
+📦 Repository  
+👉 https://github.com/vrhovaco/nexus-terminal-ui
 
-## 🎨 Visual Concept  
-Futuristic neon pulse inspired by cyberpunk / sci-fi UI elements  
-Dynamic gradient rotation combined with soft glow diffusion  
-Layered animation system for depth and motion  
+---
 
-## 🛠️ Tech Stack  
-HTML5  
-CSS3 (keyframes, gradients, blur, transforms)  
+## ⚡ Overview
 
-## 📁 Project Structure  
-📦 neon-pulse-animation  
- ┗ 📜 index.html   # Complete animation (HTML + CSS in one file)  
+**NEXUS TERMINAL** is a high-impact frontend project that recreates a futuristic trading terminal experience inspired by modern financial dashboards and terminal-based interfaces.
 
-## 🎯 Purpose  
-This project demonstrates advanced CSS animation techniques, including:  
-- Keyframe animations  
-- Gradient manipulation  
-- Blur and glow effects  
-- Layered pseudo-elements (::before / ::after)  
-- Transform-based positioning  
+The application focuses on **visual intensity, real-time data simulation, and interactive UI components**, delivering a production-like trading environment entirely in the browser.
 
-## Designed as a lightweight visual component suitable for:  
-- Landing pages  
-- Loading animations  
-- UI highlights  
-- Creative frontend portfolios  
+---
 
-##💡 Highlights  
-Zero JavaScript – fully CSS-driven animation  
-Clean and minimal structure  
-High visual impact with simple code  
-Demonstrates strong understanding of CSS animations  
+## ✨ Features
 
-## 📌 Notes  
-This is a frontend-only visual animation demo.  
-All effects are achieved using pure CSS without external libraries.  
+- Real-time crypto price simulation  
+- Interactive trading chart (Chart.js integration)  
+- Dynamic watchlist with live updates  
+- Portfolio tracking interface  
+- Buy / Sell trading panel  
+- Terminal-style UI layout with multiple sections  
+- Neon cyberpunk visual design  
+- Smooth UI transitions and animations  
+- Fully responsive layout  
+
+---
+
+## 🖥️ Core Modules
+
+Trading Chart – real-time simulated price visualization  
+Watchlist – live updating asset panel  
+Portfolio – balance and holdings overview  
+Trading Panel – buy/sell interaction UI  
+Terminal Layout – multi-section dashboard structure  
+
+---
+
+## 🎨 Design Concept
+
+Inspired by terminal-based systems and futuristic dashboards:
+
+- cyberpunk / neon visual identity  
+- high contrast dark UI  
+- glowing elements and gradients  
+- compact, information-dense layout  
+- trading-terminal aesthetic  
+
+The goal is to mimic tools used in:
+
+- trading platforms  
+- financial dashboards  
+- crypto terminals  
+- real-time monitoring systems  
+
+---
+
+## 🛠️ Tech Stack
+
+- HTML5  
+- CSS3 (custom animations, neon effects, layout system)  
+- Vanilla JavaScript  
+- Chart.js (data visualization)  
+
+---
+
+## 📁 Project Structure
+📦 nexus-terminal-ui
+┣ 📜 index.html # Layout and terminal UI structure
+┣ 📜 style.css # Styling, neon effects, animations
+┗ 📜 script.js # Data simulation and interactions
+
+
+---
+
+## 🎯 Purpose
+
+This project demonstrates the ability to build:
+
+- complex interactive dashboards  
+- real-time data simulation systems  
+- visually advanced UI interfaces  
+- modular frontend architecture without frameworks  
+
+Applicable to domains such as:
+
+- fintech dashboards  
+- trading platforms  
+- monitoring systems  
+- data visualization tools  
+
+---
+
+## 💡 Highlights
+
+- Strong visual identity and UI polish  
+- Real-time simulation without backend  
+- Clean and scalable frontend structure  
+- Interactive components and state handling  
+- Portfolio-ready “high-tech” interface  
+
+---
+
+## 📊 Use Cases
+
+- Crypto trading dashboards  
+- Financial monitoring tools  
+- Data visualization platforms  
+- Terminal-style UI systems  
+
+---
+
+## 📌 Notes
+
+- Frontend-only project (no backend/API)  
+- Data is simulated in real-time  
+- Designed for portfolio and demonstration purposes  
