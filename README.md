@@ -1,31 +1,66 @@
-# 🚀 NEXUS TERMINAL – Crypto Trading Dashboard
+# 🚀 ORBIT FLEET – Vehicle Telematics Platform  
+Advanced frontend-only fleet management dashboard featuring real-time telemetry simulation, 3D vehicle visualization, and operational analytics.
 
-Futuristic crypto trading terminal with real-time simulation, interactive charts, and modern neon UI design.
+## 🌐 Live Demo  
+👉 https://vrhovaco.github.io/vehicle-fleet-telematics/
 
-## 🌐 Live Demo
-👉 https://vrhovaco.github.io/nexus-terminal-ui/
+## 📦 Repository  
+👉 https://github.com/vrhovaco/vehicle-fleet-telematics
 
----
+## ✨ Features  
+3D vehicle viewer with smooth rotation and camera controls  
+Real-time telemetry simulation (speed, movement, system state)  
+Vehicle switching system (multi-vehicle support)  
+Route replay with projected path visualization  
+Live operational alert feed (warnings, events, status changes)  
+Performance insights and analytics dashboard  
+Interactive UI with dynamic data updates  
+Responsive, modern enterprise-grade layout  
+Fully frontend implementation (no backend required)  
 
-## ✨ Features
+## 🚗 Core Modules  
+Vehicle Viewer – interactive 3D model with orbit controls  
+Telemetry Engine – simulated real-time vehicle data  
+Route System – replay + prediction of vehicle movement  
+Alerts Feed – real-time-like system notifications  
+Analytics Dashboard – performance metrics and summaries  
 
-- Real-time crypto price simulation
-- Interactive trading chart (Chart.js)
-- Watchlist with live updates
-- Portfolio tracking UI
-- Buy / Sell trading panel
-- Neon cyberpunk UI design
-- Fully responsive layout
+##🛠️ Tech Stack  
+HTML5  
+CSS3 (modern layout, transitions, responsive design)  
+Vanilla JavaScript (modular logic)  
+Three.js (3D rendering engine)  
+OrbitControls (camera interaction)  
 
----
+## 📁 Project Structure  
+📦 vehicle-fleet-telematics  
+ ┣ 📜 index.html      # Application layout and 3D canvas  
+ ┣ 📜 style.css       # UI styling and responsive system  
+ ┗ 📜 script.js       # Telemetry logic, simulation, interactions  
 
-## 🛠️ Tech Stack
+## 🎯 Purpose  
+This project demonstrates the development of a modern fleet telematics interface similar to systems used in:  
+- Logistics and transportation companies  
+- Smart mobility platforms  
+- Fleet management systems  
+- IoT vehicle tracking solutions  
 
-- HTML5
-- CSS3 (custom animations + neon effects)
-- Vanilla JavaScript
-- Chart.js
+The focus is on building a realistic, production-like dashboard using only frontend technologies.
 
----
+## 💡 Highlights  
+3D visualization integrated into business dashboard  
+Simulation of real-world telematics data  
+Clean and scalable UI architecture without frameworks  
+Strong emphasis on UX, clarity, and data presentation  
+Portfolio-ready system with high visual and technical impact  
 
-## 📁 Project Structure
+## 📊 Use Cases  
+Fleet monitoring dashboards  
+Vehicle tracking systems  
+Smart city transportation analytics  
+IoT simulation interfaces  
+
+## 📌 Notes  
+This is a frontend-only demo application.  
+All data is simulated within the application (no API/backend).  
+Designed for showcasing UI/UX and system design capabilities.  
